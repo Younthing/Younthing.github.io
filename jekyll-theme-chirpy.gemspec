@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-chirpy"
   spec.version       = "7.1.0"
-  spec.authors       = ["Cotes Chung"]
-  spec.email         = ["cotes.chung@gmail.com"]
+  spec.authors       = ["Fan Xingfu"]
+  spec.email         = ["fanxingfu3344@gmail.com"]
 
   spec.summary       = "A minimal, responsive, and feature-rich Jekyll theme for technical writing."
-  spec.homepage      = "https://github.com/cotes2020/jekyll-theme-chirpy"
+  spec.homepage      = "https://github.com/Fan2020/jekyll-theme-chirpy"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f|
@@ -15,11 +15,11 @@ Gem::Specification.new do |spec|
   }
 
   spec.metadata = {
-    "bug_tracker_uri"   => "https://github.com/cotes2020/jekyll-theme-chirpy/issues",
-    "documentation_uri" => "https://github.com/cotes2020/jekyll-theme-chirpy/#readme",
-    "homepage_uri"      => "https://cotes2020.github.io/chirpy-demo",
-    "source_code_uri"   => "https://github.com/cotes2020/jekyll-theme-chirpy",
-    "wiki_uri"          => "https://github.com/cotes2020/jekyll-theme-chirpy/wiki",
+    "bug_tracker_uri"   => "https://github.com/Fan2020/jekyll-theme-chirpy/issues",
+    "documentation_uri" => "https://github.com/Fan2020/jekyll-theme-chirpy/#readme",
+    "homepage_uri"      => "https://Fan2020.github.io/chirpy-demo",
+    "source_code_uri"   => "https://github.com/Fan2020/jekyll-theme-chirpy",
+    "wiki_uri"          => "https://github.com/Fan2020/jekyll-theme-chirpy/wiki",
     "plugin_type"       => "theme"
   }
 
