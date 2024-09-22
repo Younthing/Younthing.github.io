@@ -23,13 +23,13 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://younthing.github.io"
+url: ""
 
 github:
   username: Younthing # change to your GitHub username
 
 twitter:
-  username: fancifully # change to your Twitter username
+  username: fancifully18 # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/favicons/android-chrome-512x512.png"
+avatar: "https://i.ibb.co/mCyJtY1/image.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "younthing.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
