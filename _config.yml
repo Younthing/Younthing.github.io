@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 快乐星球 # the main title
+title: biorange # the main title
 
-tagline: 什么是快乐星球 🎉 # it will display as the subtitle
+tagline: 这就是快乐星球 🎉 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
